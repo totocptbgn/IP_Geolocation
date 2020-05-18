@@ -1,7 +1,7 @@
 
 // Setup those, if don't know how : read the README.md
-const access_key_ipstack = 'e5bfaa9dbeb79a3d617ac59a4c535bb4';
-const access_token_mapbox = 'pk.eyJ1IjoidG90b2NwdGJnbiIsImEiOiJja2FhOWt4cWYwdW9tMndxd2R5OTNlcXo3In0.feZrY2W9vXWB_svBfbVpBw';
+const access_key_ipstack;
+const access_token_mapbox;
 
 const timeout_delay = 5; // In seconds
 
